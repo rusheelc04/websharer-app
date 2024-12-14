@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/fba1c2d1-5574-4be0-8f74-dd6cdf02b24d/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/a7-websharer-rchande4",
+    "appService.deploySubpath": "."
+}
